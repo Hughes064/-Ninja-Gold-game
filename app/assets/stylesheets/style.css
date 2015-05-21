@@ -1,0 +1,20 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1, h3 {
+	color: #564138;
+	text-align: center
+}
+
+.gold {
+	color: #FBFC1B;
+}
+
+.green{
+	color: green;
+}
+
+.red {
+	color:red;
+}
